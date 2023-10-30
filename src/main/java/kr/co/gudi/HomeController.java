@@ -24,7 +24,7 @@ public class HomeController {
 	public String home(Model model) {
 	
 		
-		model.addAttribute("msg", "안녕" );
+		model.addAttribute("msg", "안녕, 깃!" );
 		
 		return "home";
 	}
