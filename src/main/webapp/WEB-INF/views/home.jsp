@@ -11,6 +11,7 @@
 </head>
 <body>
  ${msg}
+ <h3>폐기 기능</h3>
 </body>
 <script></script>
 </html>
